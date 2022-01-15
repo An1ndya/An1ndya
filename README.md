@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=An1ndya.An1ndya&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science and Engineering 🎓 from Bangladesh University of Engineering and Technology 🏛. I am currently working as a software developer in KB Group BD. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨🏻‍💻. I'm currently working on to improve my problem solving skill 🤓.
+I'm a graduate in Computer Science and Engineering 🎓 from Bangladesh University of Engineering and Technology 🏛. I am currently working as a software developer in KB Group BD. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨🏻‍💻.
 
 <!-- 
 Joined Github **3** years ago.
@@ -23,14 +23,16 @@ Like My Work?
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 -->
 ### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+<!--
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.-->
+- 🚀 &nbsp; I'm currently working on to improve my problem solving skill 🤓.
+- 🚀 &nbsp; Actively learning development.
+- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/An1ndya).
+<!-- 
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.-->
+- 📝 &nbsp; Checkout my [Resume](https://github.com/An1ndya/An1ndya/blob/master/resume.pdf).
 <!--
 ### My Absolute Favorites:
 
