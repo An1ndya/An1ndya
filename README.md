@@ -67,19 +67,19 @@ Like My Work?
 <td style="border:none;">
 <summary><b>⚡ Github Stats</b></summary>
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blueberry" />
 </td>
 <td td style="border:none;">
 <summary><b>☄️ Github Streaks</b></summary>
 <br />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true&theme=blueberry_duo" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true&theme=blueberry" />
 </td>
 </tr>
 </tbody>
 </table>
 <!--<summary><b>Most Used Language</b></summary>-->
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=portfolio,An1ndya.github.io,cv,thesis-paper&show_icons=true&hide_border=true&layout=compact&langs_count=15&theme=github_dark"/>	
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=portfolio,An1ndya.github.io,cv,thesis-paper&show_icons=true&hide_border=true&layout=compact&langs_count=15&theme=blueberry"/>	
 <!--
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
