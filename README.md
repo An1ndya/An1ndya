@@ -28,11 +28,12 @@ Like My Work?
 - 🚀 &nbsp; I'm currently working on to improve my problem solving skill 🤓.
 - 🚀 &nbsp; Actively learning development.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/An1ndya).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/An1ndya/An1ndya/blob/master/resume.pdf).
 <!-- 
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.-->
-- 📝 &nbsp; Checkout my [Resume](https://github.com/An1ndya/An1ndya/blob/master/resume.pdf).
+
 <!--
 ### My Absolute Favorites:
 
@@ -76,7 +77,7 @@ Like My Work?
 </tr>
 </tbody>
 </table>
-<summary><b>Most Used Language</b></summary>
+<!--<summary><b>Most Used Language</b></summary>-->
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=portfolio,An1ndya.github.io,cv,thesis-paper&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>	
 <!--
