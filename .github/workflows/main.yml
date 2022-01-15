@@ -14,7 +14,7 @@ jobs:
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1.1
       with:
-        token: ${{ secrets.USER_TOKEN }}
+        token: ${{ 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 }}
         includeForks: true
     - name: Update README.md
       run: |
