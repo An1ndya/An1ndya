@@ -28,11 +28,12 @@ Like My Work?
 - 🚀 &nbsp; I'm currently working on to improve my problem solving skill 🤓.
 - 🚀 &nbsp; Actively learning development.
 - 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/An1ndya).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/An1ndya/An1ndya/blob/master/resume.pdf).
 <!-- 
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.-->
-- 📝 &nbsp; Checkout my [Resume](https://github.com/An1ndya/An1ndya/blob/master/resume.pdf).
+
 <!--
 ### My Absolute Favorites:
 
@@ -60,21 +61,28 @@ Like My Work?
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
+<table>
+<tobdy>
+<tr>
+<td style="border:none;">
+<summary><b>⚡ Github Stats</b></summary>
+<br />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blueberry" />
+</td>
+<td td style="border:none;">
+<summary><b>☄️ Github Streaks</b></summary>
+<br />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true&theme=blueberry" />
+</td>
+</tr>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true" />
-</details>
+<!--<summary><b>Most Used Language</b></summary>-->
+<tr><td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=portfolio,An1ndya.github.io,cv,thesis-paper&show_icons=true&hide_border=true&layout=compact&langs_count=15&theme=blueberry"/>
+</td>
+</tr>
+</tbody>
+</table>
 <!--
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
