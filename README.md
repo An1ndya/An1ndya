@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anindya33046)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://An1ndya.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_anindya__/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/An1ndya06)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=An1ndya.An1ndya&style=flat-square&color=0088cc)
@@ -69,7 +68,7 @@ Like My Work?
 <tr>
 <td>
 
-<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blueberry" />
+<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false&theme=blueberry" />
 </td>
 <td >
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true&theme=blueberry" />
@@ -78,7 +77,7 @@ Like My Work?
 </tbody>
 </table>
 <div align="center">
-<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=portfolio,An1ndya.github.io,cv,thesis-paper&show_icons=true&hide_border=true&layout=compact&langs_count=20&theme=blueberry"/>
+<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=portfolio,An1ndya.github.io,cv,thesis-paper&show_icons=true&hide_border=true&layout=compact&langs_count=30&theme=blueberry"/>
 </div>
 
 
