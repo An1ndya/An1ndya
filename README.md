@@ -68,7 +68,7 @@ Like My Work?
 <tr>
 <td>
 
-<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=false&theme=blueberry" />
+<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=false&include_all_commits=false&theme=blueberry" />
 </td>
 <td >
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true&theme=blueberry" />
