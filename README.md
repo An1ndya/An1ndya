@@ -2,12 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anindya33046)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://An1ndya.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_anindya__/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/An1ndya06)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=An1ndya.An1ndya&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science and Engineering 🎓 from Bangladesh University of Engineering and Technology 🏛. I am currently working as a software developer in KB Group BD. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨🏻‍💻.
+I'm a graduate from Bangladesh University of Engineering and Technology. I have completed my graduation in Computer Science and Engineering in 2019. I am currently working as a software developer in KB Group BD. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
 <!-- 
 Joined Github **3** years ago.
@@ -46,13 +45,19 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<!--<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mssql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jquery"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<!--<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>-->
 
 
@@ -63,26 +68,25 @@ Like My Work?
 
 <table>
 <tobdy>
-<tr>
-<td style="border:none;">
-<summary><b>⚡ Github Stats</b></summary>
-<br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blueberry" />
-</td>
-<td td style="border:none;">
-<summary><b>☄️ Github Streaks</b></summary>
-<br />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true&theme=blueberry" />
-</td>
+<tr>	
+<th>Github Stats</th><th>Github Streaks</th>
 </tr>
+<tr>
+<td>
 
-<!--<summary><b>Most Used Language</b></summary>-->
-<tr><td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=portfolio,An1ndya.github.io,cv,thesis-paper&show_icons=true&hide_border=true&layout=compact&langs_count=15&theme=blueberry"/>
+<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api?username=An1ndya&show_icons=true&hide_border=true&&count_private=false&include_all_commits=false&theme=blueberry" />
+</td>
+<td >
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=An1ndya&hide_border=true&theme=blueberry" />
 </td>
 </tr>
 </tbody>
 </table>
+<div align="center">
+<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=cv,&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blueberry&hide=tex,html,css,scss"/>
+</div>
+
+
 <!--
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
