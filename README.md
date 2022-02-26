@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=An1ndya.An1ndya&style=flat-square&color=0088cc)
 
-I'm a graduate from Bangladesh University of Engineering and Technology. I have completed my graduation in Computer Science and Engineering in 2019. I am currently working as a software developer in KB Group BD. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+I'm a graduate from Bangladesh University of Engineering and Technology. I have completed my graduation in Computer Science and Engineering in 2019. I am currently working as a software developer in KB Group BD. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Learning various language gives me feeling of fulfillment.
 
 <!-- 
 Joined Github **3** years ago.
