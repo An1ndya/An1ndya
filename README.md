@@ -82,7 +82,7 @@ Like My Work?
 </tbody>
 </table>
 <div align="center">
-<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=cv,&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blueberry&hide=tex,html,css,scss"/>
+<img height="180em" src="https://github-readme-stats-an1ndya.vercel.app/api/top-langs/?username=An1ndya&exclude_repo=cv,IIT-Kharagpur,&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blueberry&hide=tex,html,css,scss"/>
 </div>
 
 
