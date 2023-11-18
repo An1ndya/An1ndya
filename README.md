@@ -26,7 +26,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.-->
 - 🚀 &nbsp; I'm currently working on to improve my problem solving skill 🤓.
 - 🚀 &nbsp; Actively learning development.
-- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/An1ndya).
+<!--- 👨🏻‍💻 &nbsp; Some of my projects are available on [Github](https://github.com/An1ndya).-->
 - 📝 &nbsp; Checkout my [Resume](https://github.com/An1ndya/An1ndya/blob/master/resume.pdf).
 <!-- 
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
